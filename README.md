@@ -1,1 +1,2 @@
 # single_person_activity_recognition
+Single-person activity recognition is a field of study within computer vision and artificial intelligence that focuses on understanding and identifying the actions and activities performed by an individual based on input data, typically in the form of video or sensor data. This area has numerous applications, including surveillance, human-computer interaction, healthcare monitoring, and sports analysis. 
